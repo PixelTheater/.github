@@ -49,6 +49,6 @@ The **RGB Message Block** is a modular, chainable 5x7 RGB LED sign based on WS28
 
 ![ESP Candle](./media/ESPCandle-product.jpg)
 
-A tea candle-sized LED-powered smart light. The PCB stack is 38.6mm in diameter and 2cm tall, so that it can be placed in a standard candle holder or lantern (which are normally >40mm round spaces). It features 20x RGB pixels, two very bright and warm white LEDs, two deep red leds, and a high power UV-C LED. It can be powered by USB-C or via 6-15v DC external input.
+A tea candle-sized LED-powered smart light. The PCB stack is 38.6mm in diameter and 2cm tall, so that it can be placed in a standard candle holder or lantern (which are normally >40mm round spaces). It features 20x RGB pixels, two very bright and warm white LEDs, two deep red leds, and a high power UV-C LED. It can be powered by USB-C or via 6-15v DC external input. [Example demo firmware plus Home Assistant YAML with all leds and entities](https://github.com/PixelTheater/espcandle-demo)
 
 (more coming soon)
