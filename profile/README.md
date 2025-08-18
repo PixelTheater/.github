@@ -45,4 +45,10 @@ The Clock Kit 1.0 is an easy kit for building a colorful 7-segment clock using s
 
 The **RGB Message Block** is a modular, chainable 5x7 RGB LED sign based on WS2812 LEDs. Each block displays four characters (20 LEDs wide, 7 LEDs tall) and measures just 60x24mm, making it perfect for compact, customizable displays. Multiple blocks can be connected together to create longer messages or larger displays. [Example firmware and demo code](https://github.com/PixelTheater/RGB-message-block)
 
+### ESP Candle
+
+![ESP Candle](./media/ESPCandle-product.jpg)
+
+A tea candle-sized LED-powered smart light. The PCB stack is 38.6mm in diameter and 2cm tall, so that it can be placed in a standard candle holder or lantern (which are normally >40mm round spaces). It features 20x RGB pixels, two very bright and warm white LEDs, two deep red leds, and a high power UV-C LED. It can be powered by USB-C or via 6-15v DC external input.
+
 (more coming soon)
