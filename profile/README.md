@@ -51,4 +51,8 @@ The **RGB Message Block** is a modular, chainable 5x7 RGB LED sign based on WS28
 
 A tea candle-sized LED-powered smart light. The PCB stack is 38.6mm in diameter and 2cm tall, so that it can be placed in a standard candle holder or lantern (which are normally >40mm round spaces). It features 20x RGB pixels, two very bright and warm white LEDs, two deep red leds, and a high power UV-C LED. It can be powered by USB-C or via 6-15v DC external input. [Example demo firmware plus Home Assistant YAML with all leds and entities](https://github.com/PixelTheater/espcandle-demo)
 
+![Mini Mono 7seg Clock](./media/LED-Mini-Mono-7seg-Product.jpg)
+
+A tiny (87x24.5mm) clock rendered with vintage orange pixels, each LED is individually dimmable. The corners are just slightly rounded, inspired by old displays and calculators of the 60s and 70s. Driven by an IS31FL3737 chip, it's easily interfaced with I2C and the [LED Driver Library](https://github.com/somebox/IS31FL373x-Driver) for this great TI chip. With two decimal points and a clock separator, it's possible to use it for time and currency and other things. With I2C address selection up to four boards can be used on the same channel. 
+
 (more coming soon)
