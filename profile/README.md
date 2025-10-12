@@ -4,11 +4,11 @@
 
 PixelTheater is a platform for creating interactive LED animations on different shaped models constructed from PCBs.
 
-> **Note for Why2025 attendees that bought the ESPCandle:** repo and firmware can be found at https://github.com/somebox/espcandle-demo and include the demo code as well as the ESPHome config and info.
+> **Note for Why2025 attendees that bought the ESPCandle:** repo and firmware can be found at https://github.com/PixelTheater/espcandle-demo and include the demo code as well as the ESPHome config and info.
 
 ## Software
 
-PixelTheater's main open-source firmware project is [DodecaRGB-firmware](https://github.com/Pixel-Theater/DodecaRGB-firmware), which powers the DodecaRGB LED model and provides tools for animation, hardware integration, and development. In additionl to the 3d led models, we also have clocks, message blocks and other projects. 
+PixelTheater's main open-source firmware project is [DodecaRGB-firmware](https://github.com/PixelTheater/DodecaRGB-firmware), which powers the DodecaRGB LED model and provides tools for animation, hardware integration, and development. In additionl to the 3d led models, we also have clocks, message blocks and other projects. 
 
 ## LED Models
 
