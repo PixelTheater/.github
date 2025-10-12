@@ -1,8 +1,5 @@
 # Pixel Theater
 
-> [!IMPORTANT]
-> We will be at [Why2025](https://why2025.org) with kits and hands-on hacking from August 7-12, 2025. See our [event wiki page](https://wiki.why2025.org/Village:Pixel_Theater) for details.
-
 <img src="./media/pixeltheater-logo.png" alt="Pixel Theater logo" width="400" />
 
 PixelTheater is a platform for creating interactive LED animations on different shaped models constructed from PCBs.
